@@ -9,9 +9,9 @@ Mi enfoque principal en los últimos meses ha sido el desarrollo de un proyecto 
 * **Backend:** Java con Spring Boot (API RESTful, JWT, Paginación con HATEOAS, arquitectura robusta, manejo de excepciones, lógica de negocio).
 * **Consumo de APIs externas:** Google Auth, SMTP/Gmail, Cloudinary, OpenAI y GeoRef.
 
-  * 🔗 [Visitar MiViandita (Deploy)](#https://miviandita.vercel.app/)
-  * 💻 [Repositorio del Frontend](#https://github.com/Yoru3791/TP-Final-Progra-IV)
-  * ⚙️ [Repositorio del Backend](#https://github.com/Yoru3791/TP-Final-Progra-III)
+  * 🔗 [Visitar MiViandita (Deploy)](https://miviandita.vercel.app/)
+  * 💻 [Repositorio del Frontend](https://github.com/Yoru3791/TP-Final-Progra-IV)
+  * ⚙️ [Repositorio del Backend](https://github.com/Yoru3791/TP-Final-Progra-III)
 
 
 
